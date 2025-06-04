@@ -18,15 +18,7 @@ A Java-based discussion forum application that allows users to create and partic
 CREATE DATABASE thread_talk;
 ```
 
-## Project Setup
 
-1. Clone or download this repository
-2. Open the project in your preferred IDE
-3. Update database credentials in `src/main/java/com/threadtalk/dao/DatabaseConfig.java` if needed
-4. Build the project using Maven:
-```bash
-mvn clean install
-```
 
 ## Running the Application
 
