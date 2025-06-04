@@ -12,8 +12,7 @@ Connect to your local MySQL server
 Create a new database:
 CREATE DATABASE thread_talk;
 Project Setup
-Clone or download this repository
-Open the project in your preferred IDE
+code in vs code
 Update database credentials in src/main/java/com/threadtalk/dao/DatabaseConfig.java if needed
 Build the project using Maven:
 mvn clean install
