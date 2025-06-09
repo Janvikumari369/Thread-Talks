@@ -1,8 +1,0 @@
-ui\ChatDashboardUI.class
-client\ChatClient.class
-util\DBConnection.class
-model\Message.class
-com\threadtalk\dao\DatabaseConfig.class
-server\ChatServer.class
-server\ClientHandler.class
-dao\ChatDAO.class
